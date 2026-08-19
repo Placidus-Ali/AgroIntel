@@ -1,0 +1,13 @@
+Crop,Moisture Range,Storage Method,Days Since Harvest,Recommended Action,Additional Storage Days
+Maize,Range A (Safe: < 13%),Hermetic,2,Store,Up to 365 days
+Maize,Range B (Moderate: 13–15%),Hermetic,5,Dry before sealing,Up to 180 days (after drying)
+Maize,Range C (High: > 15%),Sack,7,Dry immediately / Short-term storage,7–14 days max
+Maize,Range A (Safe: < 13%),Silo,3,Store,Up to 365 days
+Maize,Range B (Moderate: 13–15%),Warehouse,10,Monitor & ventilate,30–60 days
+Maize,Range C (High: > 15%),Traditional room,4,Dry & process immediately,3–5 days max
+Beans,Range A (Safe: < 12%),Hermetic,3,Store,Up to 365 days
+Beans,Range B (Moderate: 12–14%),Sack,7,Dry & transfer to hermetic,14–30 days
+Beans,Range C (High: > 14%),Sack,14,Sell soon / Dry immediately,1–7 days max
+Beans,Range A (Safe: < 12%),PICS bag,2,Store,Up to 365 days
+Beans,Range B (Moderate: 12–14%),Warehouse,8,Monitor for pests & dry,30–60 days
+Beans,Range C (High: > 14%),Traditional room,5,Dry immediately,2–4 days max

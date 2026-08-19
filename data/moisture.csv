@@ -1,0 +1,11 @@
+Crop,Variety / Type,Moisture Min (%),Moisture Max (%),Status,Action
+Maize,White,0,13,Safe,Store
+Maize,White,13.1,15,Moderate,Monitor
+Maize,White,15.1,>15,High,Dry
+Maize,Yellow,0,13,Safe,Store
+Maize,Yellow,15.1,>15,High,Dry
+Beans,Brown,0,12,Safe,Store
+Beans,Brown,12.1,14,Moderate,Monitor
+Beans,Brown,14.1,>14,High,Dry
+Beans,White,0,12,Safe,Store
+Beans,White,14.1,>14,High,Dry

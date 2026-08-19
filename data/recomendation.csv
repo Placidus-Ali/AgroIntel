@@ -1,0 +1,11 @@
+Crop,Condition,Risk,Recommendation
+Maize,Excess moisture,High,Dry before storage
+Maize,Suitable moisture + suitable storage,Low,Store
+Maize,High moisture + poor storage,Very High,Do not store
+Maize,Visible mold,Very High,Do not store
+Maize,Pest infestation,High,Treat/improve storage
+Beans,Excess moisture,High,Dry before storage
+Beans,Suitable moisture + hermetic storage,Low,Store
+Beans,High moisture + sack,High,Dry
+Beans,Bruchid infestation,High,Improve protection
+Beans,Visible mold,Very High,Do not store

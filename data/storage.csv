@@ -1,0 +1,11 @@
+Crop,Storage Method,Suitability,Risk,Notes
+Maize,Hermetic bag,High,Low,Prevents pest growth by depriving insects of oxygen; excellent for long-term storage without chemicals.
+Maize,Silo,High,Low,Ideal for bulk storage; requires moisture monitoring and aeration to prevent condensation and heat build-up.
+Maize,Warehouse,High,Low / Medium,"Effective for large quantities; requires pest control, proper pallet spacing, and adequate ventilation."
+Maize,Sack,Medium / Low,High,Susceptible to moisture absorption and insect infestation; suitable only for short-term handling or transit.
+Maize,Traditional room,Low,High,"Vulnerable to rodents, humidity, and post-harvest pests like maize weevils (Sitophilus zeamais)."
+Beans,Hermetic bag,High,Low,Highly recommended; deprives bean weevils/bruchids of oxygen without needing synthetic pesticides.
+Beans,PICS bag,High,Low,Multi-layer polyethylene bag specifically effective at preventing bruchid damage in stored legumes.
+Beans,Warehouse,High,Medium,Works well for bagged commercial stocks; requires strict fumigation and humidity control to protect seeds.
+Beans,Sack,Low,High,Highly vulnerable to rapid bruchid beetle infestations and moisture uptake leading to mold.
+Beans,Traditional room,Low,High,"Very high risk of major losses from pest damage, ambient moisture, and rodent contamination."
