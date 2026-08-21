@@ -460,7 +460,7 @@ if st.button(
 
     st.caption(
         """
-        This MVP a rule-based agricultural
+        This MVP is a rule-based agricultural
         decision-support system. Its recommendations
         depend on the quality and completeness of
         the agricultural rules contained in the
