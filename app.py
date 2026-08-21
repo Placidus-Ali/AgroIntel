@@ -420,8 +420,8 @@ if st.button(
 
             st.success(
                 "This recommendation is based "
-                "on an exact Days Since Harvest "
-                "rule in the dataset."
+                "on an exact Days Since Crop was Harvested "
+                
             )
 
 
