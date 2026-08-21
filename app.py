@@ -22,7 +22,7 @@ st.title("🌾 AgroIntel")
 
 st.write(
     """
-    Check whether your maize or beans should be handled.
+    Check the best way to handle your maize and beans in seconds to avoid loss.
     """
 )
 
