@@ -9,7 +9,7 @@ from rule_engine import (
 # PAGE SETTINGS
 
 st.set_page_config(
-    page_title="Post-Harvest Advisor",
+    page_title="AgroIntel",
     page_icon="🌾",
     layout="centered"
 )
@@ -18,12 +18,11 @@ st.set_page_config(
 # PAGE TITLE
 
 
-st.title("🌾 Post-Harvest Advisor")
+st.title("🌾 AgroIntel")
 
 st.write(
     """
-    Check whether your maize or beans should be
-    stored, dried, monitored, or handled soon.
+    Check whether your maize or beans should be handled.
     """
 )
 
