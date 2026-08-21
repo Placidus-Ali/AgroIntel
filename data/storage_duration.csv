@@ -1,13 +1,61 @@
 Crop,Moisture Range,Storage Method,Days Since Harvest,Recommended Action,Additional Storage Days
-Maize,Range A (Safe: < 13%),Hermetic,2,Store,Up to 365 days
-Maize,Range B (Moderate: 13�15%),Hermetic,5,Dry before sealing,Up to 180 days (after drying)
-Maize,Range C (High: > 15%),Sack,7,Dry immediately / Short-term storage,7�14 days max
-Maize,Range A (Safe: < 13%),Silo,3,Store,Up to 365 days
-Maize,Range B (Moderate: 13�15%),Warehouse,10,Monitor & ventilate,30�60 days
-Maize,Range C (High: > 15%),Traditional room,4,Dry & process immediately,3�5 days max
-Beans,Range A (Safe: < 12%),Hermetic,3,Store,Up to 365 days
-Beans,Range B (Moderate: 12�14%),Sack,7,Dry & transfer to hermetic,14�30 days
-Beans,Range C (High: > 14%),Sack,14,Sell soon / Dry immediately,1�7 days max
-Beans,Range A (Safe: < 12%),PICS bag,2,Store,Up to 365 days
-Beans,Range B (Moderate: 12�14%),Warehouse,8,Monitor for pests & dry,30�60 days
-Beans,Range C (High: > 14%),Traditional room,5,Dry immediately,2�4 days max
+Maize,Range A (Safe: < 13%),Hermetic,0,Store,Up to 90 days
+Maize,Range A (Safe: < 13%),Hermetic,1,Store,Up to 90 days
+Maize,Range A (Safe: < 13%),Hermetic,2,Store,Up to 90 days
+Maize,Range A (Safe: < 13%),Hermetic,3,Store,Up to 90 days
+Maize,Range B (Moderate: 13–15%),Hermetic,4,Dry before sealing,Up to 90 days after drying
+Maize,Range B (Moderate: 13–15%),Hermetic,5,Dry before sealing,Up to 90 days after drying
+Maize,Range B (Moderate: 13–15%),Hermetic,6,Dry before sealing,Up to 90 days after drying
+Maize,Range B (Moderate: 13–15%),Hermetic,7,Dry before sealing,Up to 90 days after drying
+Maize,Range C (High: > 15%),Sack,8,Dry immediately or Short-term storage,14 days max
+Maize,Range C (High: > 15%),Sack,9,Dry immediately or Short-term storage,14 days max
+Maize,Range C (High: > 15%),Sack,10,Dry immediately or Short-term storage,14 days max
+Maize,Range C (High: > 15%),Sack,11,Dry immediately or Short-term storage,14 days max
+Maize,Range C (High: > 15%),Sack,12,Dry immediately or Short-term storage,14 days max
+Maize,Range C (High: > 15%),Sack,13,Dry immediately or Short-term storage,14 days max
+Maize,Range C (High: > 15%),Sack,14,Dry immediately or Short-term storage,14 days max
+Maize,Range A (Safe: < 13%),Silo,0,Store,Up to 90 days
+Maize,Range A (Safe: < 13%),Silo,1,Store,Up to 90 days
+Maize,Range A (Safe: < 13%),Silo,2,Store,Up to 90 days
+Maize,Range A (Safe: < 13%),Silo,3,Store,Up to 90 days
+Maize,Range B (Moderate: 13–15%),Warehouse,8,Monitor & ventilate,Up to 60 days
+Maize,Range B (Moderate: 13–15%),Warehouse,9,Monitor & ventilate,Up to 60 days
+Maize,Range B (Moderate: 13–15%),Warehouse,10,Monitor & ventilate,Up to 60 days
+Maize,Range B (Moderate: 13–15%),Warehouse,11,Monitor & ventilate,Up to 60 days
+Maize,Range B (Moderate: 13–15%),Warehouse,12,Monitor & ventilate,Up to 60 days
+Maize,Range B (Moderate: 13–15%),Warehouse,13,Monitor & ventilate,Up to 60 days
+Maize,Range B (Moderate: 13–15%),Warehouse,14,Monitor & ventilate,Up to 60 days
+Maize,Range C (High: > 15%),Traditional room,4,Dry & process immediately,5 days max
+Maize,Range C (High: > 15%),Traditional room,5,Dry & process immediately,5 days max
+Maize,Range C (High: > 15%),Traditional room,6,Dry & process immediately,5 days max
+Maize,Range C (High: > 15%),Traditional room,7,Dry & process immediately,5 days max
+Beans,Range A (Safe: < 12%),Hermetic,0,Store,Up to 90 days
+Beans,Range A (Safe: < 12%),Hermetic,1,Store,Up to 90 days
+Beans,Range A (Safe: < 12%),Hermetic,2,Store,Up to 90 days
+Beans,Range A (Safe: < 12%),Hermetic,3,Store,Up to 90 days
+Beans,Range B (Moderate: 12–14%),Sack,4,Dry & transfer to hermetic,Up to 30 days
+Beans,Range B (Moderate: 12–14%),Sack,5,Dry & transfer to hermetic,Up to 30 days
+Beans,Range B (Moderate: 12–14%),Sack,6,Dry & transfer to hermetic,Up to 30 days
+Beans,Range B (Moderate: 12–14%),Sack,7,Dry & transfer to hermetic,Up to 30 days
+Beans,Range C (High: > 14%),Sack,8,Sell soon or Dry immediately,7 days max
+Beans,Range C (High: > 14%),Sack,9,Sell soon or Dry immediately,7 days max
+Beans,Range C (High: > 14%),Sack,10,Sell soon or Dry immediately,7 days max
+Beans,Range C (High: > 14%),Sack,11,Sell soon or Dry immediately,7 days max
+Beans,Range C (High: > 14%),Sack,12,Sell soon or Dry immediately,7 days max
+Beans,Range C (High: > 14%),Sack,13,Sell soon or Dry immediately,7 days max
+Beans,Range C (High: > 14%),Sack,14,Sell soon or Dry immediately,7 days max
+Beans,Range A (Safe: < 12%),PICS bag,0,Store,Up to 90 days
+Beans,Range A (Safe: < 12%),PICS bag,1,Store,Up to 90 days
+Beans,Range A (Safe: < 12%),PICS bag,2,Store,Up to 90 days
+Beans,Range A (Safe: < 12%),PICS bag,3,Store,Up to 90 days
+Beans,Range B (Moderate: 12–14%),Warehouse,8,Monitor for pests & dry,Up to 60 days
+Beans,Range B (Moderate: 12–14%),Warehouse,9,Monitor for pests & dry,Up to 60 days
+Beans,Range B (Moderate: 12–14%),Warehouse,10,Monitor for pests & dry,Up to 60 days
+Beans,Range B (Moderate: 12–14%),Warehouse,11,Monitor for pests & dry,Up to 60 days
+Beans,Range B (Moderate: 12–14%),Warehouse,12,Monitor for pests & dry,Up to 60 days
+Beans,Range B (Moderate: 12–14%),Warehouse,13,Monitor for pests & dry,Up to 60 days
+Beans,Range B (Moderate: 12–14%),Warehouse,14,Monitor for pests & dry,Up to 60 days
+Beans,Range C (High: > 14%),Traditional room,4,Dry immediately,7 days max
+Beans,Range C (High: > 14%),Traditional room,5,Dry immediately,7 days max
+Beans,Range C (High: > 14%),Traditional room,6,Dry immediately,7 days max
+Beans,Range C (High: > 14%),Traditional room,7,Dry immediately,7 days max

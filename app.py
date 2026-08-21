@@ -420,7 +420,7 @@ if st.button(
 
             st.success(
                 "This recommendation is based "
-                "on an exact days-since-harvest "
+                "on an exact Days Since Harvest "
                 "rule in the dataset."
             )
 
@@ -460,11 +460,10 @@ if st.button(
 
     st.caption(
         """
-        This MVP is a rule-based agricultural
-        decision-support system. Its recommendations
-        depend on the quality and completeness of
-        the agricultural rules contained in the
-        supplied datasets.
+        AgroIntel is a rule-based agricultural
+        decision-support system. Recommendations
+        are based on the agricultural rules contained
+        in the supplied datasets.
         """
     )
 
